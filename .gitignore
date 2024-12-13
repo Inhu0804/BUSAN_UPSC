@@ -1,0 +1,56 @@
+# Flutter-specific files
+.flutter/
+.dart_tool/
+.build/
+.packages
+.pub-cache/
+.idea/
+.vscode/
+*.iml
+
+# Generated files
+build/
+*.log
+*.lock
+*.tmp
+*.swp
+
+# Web build output
+build/web/
+
+# iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/*.xcodeproj
+ios/.symlinks/
+ios/Pods/
+ios/Podfile.lock
+
+# Android
+android/.gradle/
+android/app/debug.keystore
+android/local.properties
+android/.idea/
+
+# Windows
+windows/flutter/
+windows/CMakeCache.txt
+windows/FlutterBuild.win.md5
+
+# macOS
+macos/.dart_tool/
+macos/Flutter/ephemeral/
+macos/Flutter/GeneratedPluginRegistrant.swift
+
+# Linux
+linux/flutter/
+linux/Makefile
+
+# Intellij IDEs & Editors
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Files created by Flutter
+pubspec.lock
